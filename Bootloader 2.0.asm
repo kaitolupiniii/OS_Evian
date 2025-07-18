@@ -95,7 +95,7 @@ halt:
   hlt                       ; hlt
 
 hello:
-  db "I love OSDev. My bootloader is awesome!", 0
+  db "J'aime les cours de lionel Auroux :000000", 0
 
 
 ; ---------------------------------------------------------------------
